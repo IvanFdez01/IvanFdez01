@@ -1,5 +1,5 @@
 # Iván Fernández López
-**Desarrollador Full Stack y aprendiz de Criptografía.**
+**Desarrollador Full Stack y Criptografía.**
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -9,7 +9,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
-### Backend & Bases de Datos
+### Backend & DB
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyCryptodome](https://img.shields.io/badge/PyCryptodome-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
