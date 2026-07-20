@@ -1,5 +1,5 @@
 # Iván Fernández López
-**Desarrollador Full Stack y Criptografía.**
+**Full-Stack & ML Engineer · Java/Spring · Python/PyTorch · Applied Cryptography.**
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
