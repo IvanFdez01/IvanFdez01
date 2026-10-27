@@ -1,5 +1,5 @@
 # Iván Fernández López
-**Full-Stack & ML Engineer · Java/Spring · Python/PyTorch · Applied Cryptography**
+**Software Engineer · Java/Spring · Python/PyTorch · ML/DL · Applied Cryptography**
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
